@@ -2,7 +2,8 @@
 
 <b>Programming language used:</b> Java
 
-<b>Requirements:</b> minimum Java 17.
+## Requirements: 
+Minimum Java 17
 
 The solution requested in the home test is located at: <b><i>src/frogs_and_toads_case/FrogsAndToads.java</b></i>
 
