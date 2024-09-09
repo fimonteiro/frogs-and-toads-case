@@ -19,7 +19,7 @@ Given that frogs are not toads, I called a `toadsList.removeAll(frogsList)`. So,
 
 After that, I stored the sizes of the lists in the `frogs` and `toads` variables and formatted the hint message.
 
-I also created test cases in the `t`stCases()` method to cover different combinations of frogs and toads, as well as unexpected inputs. Since the inputs in the method `getHint()` are strings, I chose not to validate data types (e.g., special characters or words). If someone inputs non-numeric characters, the result will be 0 frogs and 0 toads.
+I also created test cases in the `testCases()` method to cover different combinations of frogs and toads, as well as unexpected inputs. Since the inputs in the method `getHint()` are strings, I chose not to validate data types (e.g., special characters or words). If someone inputs non-numeric characters, the result will be 0 frogs and 0 toads.
 
 <b>Additionally</b>, I developed a console-based game that we can "play" with this solution. The code is located at: <b><i>src/frogs_and_toads_case/Game_FrogsAndToads.java</i></b> and the jar file is `Game_FrogsAndToads.jar`
 
